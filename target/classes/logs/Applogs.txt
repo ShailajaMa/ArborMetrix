@@ -1,0 +1,143 @@
+INFO    2020-11-05 15:09:13,033 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:09:17,023 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:09:21,520 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:09:24,024 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:09:28,715 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:09:31,614 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:09:35,740 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:09:38,461 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:09:43,185 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:09:46,834 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:09:51,285 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:09:53,684 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:09:57,552 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:10:00,163 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:10:00,164 [main] com.ArborMetrics.base.BasePage  - validating url test
+DEBUG   2020-11-05 15:10:01,531 [main] com.ArborMetrics.base.BasePage  - test has exexuted successfully
+INFO    2020-11-05 15:14:02,673 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:14:05,123 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:14:10,287 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:14:12,700 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:14:17,557 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:14:19,826 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:14:26,907 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:14:29,486 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:14:35,520 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:14:38,114 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:14:41,918 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:14:45,506 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:14:49,267 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:14:51,850 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:14:51,850 [main] com.ArborMetrics.base.BasePage  - validating url test
+DEBUG   2020-11-05 15:14:53,251 [main] com.ArborMetrics.base.BasePage  - test has exexuted successfully
+INFO    2020-11-05 15:27:28,966 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:27:31,260 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:27:36,389 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:27:39,184 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:27:43,950 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:27:46,073 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:27:50,889 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:27:53,895 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:27:58,825 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:28:02,063 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:28:06,800 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:28:09,460 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:28:13,324 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:28:26,497 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:28:26,497 [main] com.ArborMetrics.base.BasePage  - validating url test
+DEBUG   2020-11-05 15:28:31,458 [main] com.ArborMetrics.base.BasePage  - test has exexuted successfully
+INFO    2020-11-05 15:29:51,460 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:29:53,797 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:29:58,831 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:30:01,339 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:30:06,170 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:30:08,421 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:30:13,955 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:30:16,897 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:30:21,931 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:30:24,530 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:30:29,915 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:30:32,597 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:30:56,652 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:30:59,982 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:30:59,983 [main] com.ArborMetrics.base.BasePage  - validating url test
+DEBUG   2020-11-05 15:31:01,343 [main] com.ArborMetrics.base.BasePage  - test has exexuted successfully
+INFO    2020-11-05 15:35:11,575 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:35:14,470 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:35:14,482 [main] com.ArborMetrics.base.BasePage  - validating url test
+DEBUG   2020-11-05 15:35:15,849 [main] com.ArborMetrics.base.BasePage  - test has exexuted successfully
+INFO    2020-11-05 15:36:36,450 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:36:41,272 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:36:41,274 [main] com.ArborMetrics.base.BasePage  - validating url test
+DEBUG   2020-11-05 15:36:43,067 [main] com.ArborMetrics.base.BasePage  - test has exexuted successfully
+INFO    2020-11-05 15:36:47,551 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:36:51,645 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:36:57,396 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:37:00,107 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:37:05,039 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:37:08,186 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:37:13,061 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:37:15,904 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:37:20,197 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:37:22,906 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:37:47,052 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:37:49,871 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:39:42,296 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:39:46,541 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:39:46,565 [main] com.ArborMetrics.base.BasePage  - validating url test
+DEBUG   2020-11-05 15:39:48,437 [main] com.ArborMetrics.base.BasePage  - test has exexuted successfully
+INFO    2020-11-05 15:43:35,712 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:43:38,189 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:43:38,204 [main] com.ArborMetrics.base.BasePage  - validating url test
+DEBUG   2020-11-05 15:43:39,558 [main] com.ArborMetrics.base.BasePage  - test has exexuted successfully
+INFO    2020-11-05 15:45:20,122 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:45:22,722 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:45:22,723 [main] com.ArborMetrics.base.BasePage  - validating url test
+DEBUG   2020-11-05 15:45:24,122 [main] com.ArborMetrics.base.BasePage  - test has exexuted successfully
+INFO    2020-11-05 15:45:27,339 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:45:29,782 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:45:34,010 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:45:37,204 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:45:40,749 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:45:44,225 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:46:07,795 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:46:11,853 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:46:39,148 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:46:41,984 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:46:41,986 [main] com.ArborMetrics.base.BasePage  - validating url test
+DEBUG   2020-11-05 15:46:43,585 [main] com.ArborMetrics.base.BasePage  - test has exexuted successfully
+INFO    2020-11-05 15:46:46,806 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:46:50,271 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:46:54,507 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:46:56,883 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:47:00,634 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:47:03,383 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:47:26,919 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:47:31,043 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:54:07,889 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:54:10,757 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:54:19,011 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:54:21,793 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:54:21,795 [main] com.ArborMetrics.base.BasePage  - validating url test
+DEBUG   2020-11-05 15:54:23,525 [main] com.ArborMetrics.base.BasePage  - test has exexuted successfully
+INFO    2020-11-05 15:54:26,849 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:54:29,612 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:54:34,621 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:54:37,379 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:54:41,495 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:55:33,333 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:55:36,118 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:55:45,157 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:55:47,862 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:55:47,863 [main] com.ArborMetrics.base.BasePage  - validating url test
+DEBUG   2020-11-05 15:55:49,651 [main] com.ArborMetrics.base.BasePage  - test has exexuted successfully
+INFO    2020-11-05 15:55:53,769 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:55:56,508 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:56:02,022 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:56:05,620 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:56:10,128 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:56:13,560 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 15:58:57,735 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 15:59:00,419 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url
+INFO    2020-11-05 16:00:50,817 [main] com.ArborMetrics.base.BasePage  - driver got initiated
+INFO    2020-11-05 16:00:53,719 [main] com.ArborMetrics.base.BasePage  - initialized browser and launched url

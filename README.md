@@ -5,5 +5,5 @@ Used latest chrome driver exe file.
 Basepage class handles following:
  1. Driver initialization and url fetch
  2. Properties declaration from properties class, logs using log4j api. 
-TestNg is used as a test framework and Excel reader/Data provider uses apache poi, ooxml, 123ooxml schemas jars.
+TestNg is used as a test framework and Excel reader/Data/write provider uses apache poi, ooxml, 123ooxml schemas jars.
 
